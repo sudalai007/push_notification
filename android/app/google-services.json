@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "547928856190",
+    "project_id": "crypto-wallet-4e256",
+    "storage_bucket": "crypto-wallet-4e256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547928856190:android:beae5139920717e9ac2a2f",
+        "android_client_info": {
+          "package_name": "com.example.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547928856190-qearpssl7h89reng6h0rdj041u32klu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXExCzhsM3nPDLKsX05yMe1MmP5NgY1AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547928856190-qearpssl7h89reng6h0rdj041u32klu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547928856190-gd7a3f8qhh9go7fr5bgu44eru2j3g5hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.education"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547928856190:android:50a6ee6fdf4b90e7ac2a2f",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547928856190-qearpssl7h89reng6h0rdj041u32klu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXExCzhsM3nPDLKsX05yMe1MmP5NgY1AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547928856190-qearpssl7h89reng6h0rdj041u32klu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547928856190-gd7a3f8qhh9go7fr5bgu44eru2j3g5hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.education"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
